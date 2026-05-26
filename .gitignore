@@ -1,3 +1,4 @@
 clip-vit-base-patch32-local
 adapter_checkpoint
 __pycache__
+data/delta_model_dataset.jsonl
